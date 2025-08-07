@@ -6,9 +6,8 @@
 - **Data Inspection:** Displays initial rows and examines dataset shape and detailed column info.
 - **Missing Data Handling:** Identifies columns with missing values, summarizes their counts, and drops those columns to simplify analysis.
 - **Data Summary:** Reassesses data structure post-cleaning and provides statistical summaries (mean, std, min, max, percentiles) for the remaining numerical columns.
-
-**Purpose:**  
-Demonstrates fundamental EDA techniques such as data loading, inspection, missing value treatment, and summarization. 
+- Demonstrates fundamental EDA techniques such as data loading, inspection, missing value treatment, and summarization.
+- [Prodigy-Task 1](https://www.linkedin.com/posts/dehasri-suresh-kumar-4b50b1248_prodigyinfotech-machinelearning-internship-activity-7203433950088732672-Gy4q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD09BIkBgjcLGvTOl5v8CG6heelrFhYwNS0)
 
 ## prodigy_task02.ipynb — Customer Segmentation Using Mall Customers Dataset
 
@@ -30,9 +29,9 @@ Demonstrates fundamental EDA techniques such as data loading, inspection, missin
 6. **Cluster Visualization:**  
    Displays clusters with scatterplots colored by identified groups.
 
-**Purpose:**  
-Provides a complete clustering workflow from raw data handling through to cluster visualization, 
+- Provides a complete clustering workflow from raw data handling through to cluster visualization, 
 enabling segmentation of customers based on spending and income patterns.
+- [Prodigy-Task 2](https://www.linkedin.com/posts/dehasri-suresh-kumar-4b50b1248_prodigyinfotech-machinelearning-internship-activity-7205477846004170752-6Dfv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD09BIkBgjcLGvTOl5v8CG6heelrFhYwNS0)
 
 ## prodigy_task03.ipynb — Handwritten Digit Recognition Using the MNIST Dataset
 
@@ -48,8 +47,8 @@ enabling segmentation of customers based on spending and income patterns.
 4. **Evaluation and Visualization:**  
    Assesses model accuracy and visualizes performance through confusion matrices and example predictions.
 
-**Purpose:**  
-Illustrates a full supervised learning pipeline for image classification of handwritten digits.
+- Illustrates a full supervised learning pipeline for image classification of handwritten digits.
+- [Prodigy-Task 3](https://www.linkedin.com/posts/dehasri-suresh-kumar-4b50b1248_prodigyinfotech-machinelearning-internship-activity-7207057160772481026-J5Is?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD09BIkBgjcLGvTOl5v8CG6heelrFhYwNS0)
 
 ## prodigy_task04.ipynb — Iris Flower Classification
 
@@ -65,13 +64,10 @@ Illustrates a full supervised learning pipeline for image classification of hand
 4. **Visualization and Results:**  
    Presents predictions, performance metrics, and visualizations such as confusion matrices or decision boundaries.
 
-**Purpose:**  
-Demonstrates a canonical supervised machine learning workflow focused on multi-class classification of Iris species.
+- Demonstrates a canonical supervised machine learning workflow focused on multi-class classification of Iris species.
+- [Prodigy-Task 4](https://www.linkedin.com/posts/dehasri-suresh-kumar-4b50b1248_prodigyinfotech-machinelearning-internship-activity-7207057706619211776-145P?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD09BIkBgjcLGvTOl5v8CG6heelrFhYwNS0)
 
 # Summary
-
-Collectively, these notebooks provide clear examples of fundamental and intermediate data science workflows, covering:
-
 - Data loading, cleaning, and exploratory analysis.
 - Handling of missing data and outliers.
 - Feature selection tailored to the analysis objective.
